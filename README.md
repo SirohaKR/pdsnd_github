@@ -7,11 +7,33 @@
 udacity git hub project
 
 ### Description
+<<<<<<< HEAD
 This is udacity git hub project
 I did git branch refactoring
+||||||| 3252e4a
+Describe what your project is about and what it does
+=======
+This is udacity project.
+>>>>>>> documentation
 
 ### Files used
+<<<<<<< HEAD
 I used bikeshare.py
+||||||| 3252e4a
+Include the files used
+
+=======
+I used bikeshare.py
+
+>>>>>>> documentation
 ### Credits
+<<<<<<< HEAD
 I did my project with udacity
 http://udacity.com
+||||||| 3252e4a
+It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+
+=======
+http://udacity.com
+
+>>>>>>> documentation
