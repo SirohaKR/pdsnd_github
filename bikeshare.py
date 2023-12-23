@@ -3,7 +3,14 @@ import pandas as pd
 <<<<<<< HEAD
 import numpy as np
 # update
+<<<<<<< HEAD
 ||||||| d24fa05
+||||||| merged common ancestors
+||||||||| 3252e4a
+=======
+#this py updated 2023/12/20
+||||||| 3252e4a
+>>>>>>> refactoring
 
 =======
 
