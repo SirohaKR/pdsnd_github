@@ -7,17 +7,17 @@
 Udacity git hub project
 
 ### Description
-It is udacity git hub project
+Demonstrate skills learned about Github from Udacity and post them to Github.
 
 ### Files used
-I used bikeshare.py
+I used git documentation worksheet and US bikeshare.py
 
 ### Credits
-I did my project with udacity
-http://udacity.com
+This project was completed as part of the Udacity Nanodegree Program with guidance from the Udacity mentors. Special thanks to the following:
 
-### edit
-update reademe.md file.
+- **Udacity**: For providing the Git and GitHub learning materials. [Udacity's Git Course](http://udacity.com)
+- **Hunter Sparrow**: For mentorship and support throughout the project.
+- **Git Documentation**: For reference and guidelines on using Git effectively.
+- **US Bikeshare.py contributors**: For the initial codebase and dataset.
 
-### update README.md
-update merge refactoring
+Any additional resources or third-party tools that were utilized during the development of this project are duly acknowledged. Their contributions are greatly appreciated and have been instrumental in the successful completion of this project.
